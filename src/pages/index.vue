@@ -14,16 +14,16 @@ const { t } = useI18n()
 </script>
 
 <template>
-  <div>
+  <div hidden>
     <div text-4xl>
       <div i-carbon-building-insights-3 inline-block />
       <div i-carbon-building-insights-3 inline-block />
       <div i-carbon-logo-github inline-block />
       <div class="i-fxemoji-americasglobe inline-block" />
       <div class="i-twemoji-grinning-face-with-smiling-eyes hover:i-twemoji-face-with-tears-of-joy" />
-      <div class="i-mdi:ab-testing
-" />
-
+      <div
+        class="i-mdi:ab-testing"
+      />
     </div>
     <p>
       <a rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank">
@@ -64,6 +64,7 @@ const { t } = useI18n()
     </div>
   </div>
   <Products />
+  <Footer />
 </template>
 
 <route lang="yaml">

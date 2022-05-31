@@ -1,20 +1,19 @@
-
 <script setup lang="ts">
-import type { Product } from '~/models/Product';
+import type { Product } from '~/models/Product'
 // import type { CardProduct } from '~/components/CardProduct.vue';
-import products_json from '~/assets/products.json';
+import products_json from '~/assets/products.json'
 
 const props = defineProps<{
-  products?: Product,
+  products?: Product
 }>()
 
 // const { count, inc, dec } = useCounter(props.initial)
 </script>
 
 <template>
-  <div class="">
+  <div class="flex">
     <template v-for="(p, i) in products_json" :key="i">
-      <card-product :product="p"></card-product>
+      <card-product :product="p" />
     </template>
   </div>
 </template>
