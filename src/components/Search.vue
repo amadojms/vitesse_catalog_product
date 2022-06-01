@@ -11,9 +11,5 @@ const props = defineProps<{
 </script>
 
 <template>
-  <div class="flex ">
-    <template v-for="(p, i) in products_json" :key="i">
-      <card-product :product="p" />
-    </template>
-  </div>
+  <!-- codigo chido -->
 </template>

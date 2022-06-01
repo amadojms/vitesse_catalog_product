@@ -63,6 +63,7 @@ const { t } = useI18n()
       </button>
     </div>
   </div>
+  <Search />
   <Products />
   <Footer />
 </template>
