@@ -10,8 +10,8 @@ const props = defineProps<{
 // const { count, inc, dec } = useCounter(props.initial)
 </script>
 
-<template>
-  <div class="flex ">
+<template mx-auto>
+  <div class="grid grid-cols-3">
     <template v-for="(p, i) in products_json" :key="i">
       <card-product :product="p" />
     </template>

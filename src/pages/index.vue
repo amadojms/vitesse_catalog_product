@@ -63,9 +63,11 @@ const { t } = useI18n()
       </button>
     </div>
   </div>
-  <Search />
-  <Products />
-  <Footer />
+  <div mx-auto>
+    <Search />
+    <Products />
+    <Footer />
+  </div>
 </template>
 
 <route lang="yaml">
