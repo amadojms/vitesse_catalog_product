@@ -12,4 +12,7 @@ const props = defineProps<{
 
 <template>
   <!-- codigo chido -->
+  <div mx-auto>
+    <input type="text" btn placeholder="Buscar producto">
+  </div>
 </template>
