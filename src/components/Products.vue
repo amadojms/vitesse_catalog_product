@@ -1,18 +1,13 @@
 <script setup lang="ts">
-import type { Product } from '~/models/Product'
-// import type { CardProduct } from '~/components/CardProduct.vue';
-import products_json from '~/assets/products.json'
-
-const props = defineProps<{
-  products?: Product
-}>()
-
-// const { count, inc, dec } = useCounter(props.initial)
+// import type { Product } from '~/models/Product'
+// import products_json from '~/assets/products.json'
+import { useProductStore } from '~/stores/products'
+const productStore = useProductStore()
 </script>
 
 <template mx-auto>
   <div class="grid grid-cols-3">
-    <template v-for="(p, i) in products_json" :key="i">
+    <template v-for="(p, i) in productStore.productsFiltered" :key="i">
       <card-product :product="p" />
     </template>
   </div>

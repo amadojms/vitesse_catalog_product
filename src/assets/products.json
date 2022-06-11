@@ -1,170 +1,170 @@
 [
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "rectuK3SPjtAgaJ0o",
+        "id": 1,
         "name": "Oxy-b",
-        "mainImage": "https://dl.airtable.com/.attachments/9ed3a534e5737a2762ad13af1f73d8ca/156b2e62/catalogo2020_nbnLiving_OxyB_RL.0085.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/9ed3a534e5737a2762ad13af1f73d8ca/156b2e62/catalogo2020_nbnLiving_OxyB_RL.0085.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "rece0XS1u6GVRCX6U",
+        "id": 1,
         "name": "Aloe Vera",
-        "mainImage": "https://dl.airtable.com/.attachments/0d34ffdd446fa52264cd3df7498fdd75/4da43504/catalogo2020_nbnLiving_aloeVera_RL.0005.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/0d34ffdd446fa52264cd3df7498fdd75/4da43504/catalogo2020_nbnLiving_aloeVera_RL.0005.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "reckgPMyMoRJwlQNn",
+        "id": 1,
         "name": "Bbc Plus",
-        "mainImage": "https://dl.airtable.com/.attachments/acd8ed576fc55daae2e6fcaed53208f5/78cfddae/catalogo2020_nbnLiving_bbcPlus_RL.0015.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/acd8ed576fc55daae2e6fcaed53208f5/78cfddae/catalogo2020_nbnLiving_bbcPlus_RL.0015.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "rec1MQzfEbQ67eeQs",
+        "id": 1,
         "name": "Ptn",
-        "mainImage": "https://dl.airtable.com/.attachments/21961ebcf50d55c1783cf9e5f54b9a95/3c830d01/catalogo2020_nbnLiving_ptn_RL.0090.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/21961ebcf50d55c1783cf9e5f54b9a95/3c830d01/catalogo2020_nbnLiving_ptn_RL.0090.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recLIlyYe1kEHp7VX",
+        "id": 1,
         "name": "Omega 3",
-        "mainImage": "https://dl.airtable.com/.attachments/bbb0d11d2967d5a8b8d24bb5783b1224/71f1b04d/catalogo2020_nbnLiving_omega3_RL.0075.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/bbb0d11d2967d5a8b8d24bb5783b1224/71f1b04d/catalogo2020_nbnLiving_omega3_RL.0075.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recoJ0WhRHxETTvwV",
+        "id": 1,
         "name": "Vita Life",
-        "mainImage": "https://dl.airtable.com/.attachments/f3aecdff1049a2d181db03c5e33d17c1/ced3243a/catalogo2020_nbnLiving_vitaLife_RL.0105.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/f3aecdff1049a2d181db03c5e33d17c1/ced3243a/catalogo2020_nbnLiving_vitaLife_RL.0105.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "reci7z7Z0bD7zN29N",
+        "id": 1,
         "name": "Vita Life Kids",
-        "mainImage": "https://dl.airtable.com/.attachments/ca565fea175a3955e2408f424b8b12fe/e7a59798/catalogo2020_nbnLiving_vitaLifeKids_RL.0110.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/ca565fea175a3955e2408f424b8b12fe/e7a59798/catalogo2020_nbnLiving_vitaLifeKids_RL.0110.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recnY3vwLrICO9hAt",
+        "id": 1,
         "name": "Virex",
-        "mainImage": "https://dl.airtable.com/.attachments/ea06efb6f0bd2359e4c66dc1d3c5f316/b16b2b35/catalogo2020_nbnLiving_virex_RL.0100.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/ea06efb6f0bd2359e4c66dc1d3c5f316/b16b2b35/catalogo2020_nbnLiving_virex_RL.0100.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recSR3bQJlGNpaSHr",
+        "id": 1,
         "name": "Dxf",
-        "mainImage": "https://dl.airtable.com/.attachments/3bb8573b6299fc52fcd212bc8b57deca/186fa207/catalogo2020_nbnLiving_dxf_RL.0040.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/3bb8573b6299fc52fcd212bc8b57deca/186fa207/catalogo2020_nbnLiving_dxf_RL.0040.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recnpwEDTTnERX5Kz",
+        "id": 1,
         "name": "Xt Plus",
-        "mainImage": "https://dl.airtable.com/.attachments/0fc4050222fed320c102fc0e366cd416/3211f7cf/catalogo2020_nbnLiving_xtPlus_RL.0125.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/0fc4050222fed320c102fc0e366cd416/3211f7cf/catalogo2020_nbnLiving_xtPlus_RL.0125.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recMEHAz3IOv0HYsF",
+        "id": 1,
         "name": "Vrx",
-        "mainImage": "https://dl.airtable.com/.attachments/e59feb365c34dd30e048866b62de36ed/91a56485/catalogo2020_nbnLiving_vrx_RL.0120.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/e59feb365c34dd30e048866b62de36ed/91a56485/catalogo2020_nbnLiving_vrx_RL.0120.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recG1gBmxAweU0vIQ",
+        "id": 1,
         "name": "Axxa Cell",
-        "mainImage": "https://dl.airtable.com/.attachments/0e51321bc0eacacdd6478313e7bb3055/6b52bc5c/catalogo2020_nbnLiving_axxaCell_RL.0010.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/0e51321bc0eacacdd6478313e7bb3055/6b52bc5c/catalogo2020_nbnLiving_axxaCell_RL.0010.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recYn4khty8LClydJ",
+        "id": 1,
         "name": "Hgo",
-        "mainImage": "https://dl.airtable.com/.attachments/508bf61d4b75a7cbf9fec55110f4712f/d81cda72/catalogo2020_nbnLiving_hgo_RL.0055.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/508bf61d4b75a7cbf9fec55110f4712f/d81cda72/catalogo2020_nbnLiving_hgo_RL.0055.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recWAxwrocwPlwRpy",
+        "id": 1,
         "name": "Neem",
-        "mainImage": "https://dl.airtable.com/.attachments/473716ab179befe672fb44da0f86ad89/101273a8/catalogo2020_nbnLiving_neem_RL.0070.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/473716ab179befe672fb44da0f86ad89/101273a8/catalogo2020_nbnLiving_neem_RL.0070.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recmTDycjE8MufY5m",
+        "id": 1,
         "name": "M&W",
-        "mainImage": "https://dl.airtable.com/.attachments/663165cb7e62cca2d7ac0b603bbab09d/0ce15400/catalogo2020_nbnLiving_mYW_RL.0065.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/663165cb7e62cca2d7ac0b603bbab09d/0ce15400/catalogo2020_nbnLiving_mYW_RL.0065.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "rectflFsKdzNGteWl",
+        "id": 1,
         "name": "Vitamina E",
-        "mainImage": "https://dl.airtable.com/.attachments/577aa3bbdedf485bdf3078c6edecc99f/2e69b056/catalogo2020_nbnLiving_vitaminaE_RL.0115.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/577aa3bbdedf485bdf3078c6edecc99f/2e69b056/catalogo2020_nbnLiving_vitaminaE_RL.0115.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recg0uXfcfwcpYqiE",
+        "id": 1,
         "name": "Germixin",
-        "mainImage": "https://dl.airtable.com/.attachments/3e265c9dc1e5e4ecc096deb14f955000/fadff02e/catalogo2020_nbnLiving_germixin_RL.0045.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/3e265c9dc1e5e4ecc096deb14f955000/fadff02e/catalogo2020_nbnLiving_germixin_RL.0045.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recUd0YEcP8WH6bc5",
+        "id": 1,
         "name": "Germixin",
-        "mainImage": "https://dl.airtable.com/.attachments/3e265c9dc1e5e4ecc096deb14f955000/fadff02e/catalogo2020_nbnLiving_germixin_RL.0045.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/3e265c9dc1e5e4ecc096deb14f955000/fadff02e/catalogo2020_nbnLiving_germixin_RL.0045.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "rec8hq4LD4MiBsS19",
+        "id": 1,
         "name": "Germixin Repelente",
-        "mainImage": "https://dl.airtable.com/.attachments/fd11c7721ff7cc76bd7ed268575d0c0d/214d8689/catalogo2020_nbnLiving_germixinRepelente_RL.0050.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/fd11c7721ff7cc76bd7ed268575d0c0d/214d8689/catalogo2020_nbnLiving_germixinRepelente_RL.0050.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "rec9y4Hn3gPyd61Hm",
+        "id": 1,
         "name": "Lipo Gel",
-        "mainImage": "https://dl.airtable.com/.attachments/1287317307a546f8f04bceeae2b48178/6be5d55a/catalogo2020_nbnLiving_lipoGel_RL.0060.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/1287317307a546f8f04bceeae2b48178/6be5d55a/catalogo2020_nbnLiving_lipoGel_RL.0060.png"
     },
     {
-        "256": [],
-        "512": [],
-        "1024": [],
         "sid": "recHZ2MRi57L09WU3",
+        "id": 1,
         "name": "Soya Milk",
-        "mainImage": "https://dl.airtable.com/.attachments/6cd9c3f78a6c232e0ee61388e347985b/4582e8ac/catalogo2020_nbnLiving_soyaMilk_RL.0095.png"
+        "description": "BLA BLA",
+        "price": 10,
+        "image": "https://dl.airtable.com/.attachments/6cd9c3f78a6c232e0ee61388e347985b/4582e8ac/catalogo2020_nbnLiving_soyaMilk_RL.0095.png"
     }
 ]

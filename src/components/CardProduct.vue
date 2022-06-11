@@ -6,9 +6,9 @@ const props = defineProps<{
 </script>
 
 <template>
-  <div class="max-w-md py-4 px-8 bg-green-200 shadow-lg rounded-lg my-20">
+  <div class="mx-auto max-w-md py-4 px-8 bg-green-200 shadow-lg rounded-lg my-20">
     <div class="flex justify-center md:justify-end -mt-16">
-      <img class="w-20 h-20 object-cover rounded-full border-2 border-indigo-500" :src="product.mainImage">
+      <img class="w-20 h-20 object-cover rounded-full border-2 border-indigo-500" :src="product.image">
     </div>
     <div>
       <h2 class="text-gray-800 text-3xl font-semibold">

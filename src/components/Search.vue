@@ -1,18 +1,11 @@
 <script setup lang="ts">
-import type { Product } from '~/models/Product'
-// import type { CardProduct } from '~/components/CardProduct.vue';
-import products_json from '~/assets/products.json'
+import { useProductStore } from '~/stores/products'
 
-const props = defineProps<{
-  products?: Product
-}>()
-
-// const { count, inc, dec } = useCounter(props.initial)
+const productStore = useProductStore()
 </script>
 
 <template>
-  <!-- codigo chido -->
   <div mx-auto>
-    <input type="text" btn placeholder="Buscar producto">
+    <input v-model="productStore.filterProduct" type="text" btn placeholder="Buscar producto">
   </div>
 </template>
