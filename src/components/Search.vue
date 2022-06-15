@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import { useProductStore } from '~/stores/products'
+import { useProductStore } from '~/stores/productStore'
 
 const productStore = useProductStore()
 </script>
 
 <template>
-  <div mx-auto>
-    <input v-model="productStore.filterProduct" type="text" btn placeholder="Buscar producto">
+  <div text-center>
+    <input v-model="productStore.filterProduct" type="text" btn placeholder="Buscar producto aloe">
   </div>
 </template>
