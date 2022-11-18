@@ -8,6 +8,7 @@ declare module '@vue/runtime-core' {
     CardProduct: typeof import('./components/CardProduct.vue')['default']
     Counter: typeof import('./components/Counter.vue')['default']
     Footer: typeof import('./components/Footer.vue')['default']
+    NavBar: typeof import('./components/NavBar.vue')['default']
     Products: typeof import('./components/Products.vue')['default']
     README: typeof import('./components/README.md')['default']
     RouterLink: typeof import('vue-router')['RouterLink']

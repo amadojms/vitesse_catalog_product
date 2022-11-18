@@ -6,7 +6,7 @@ const productStore = useProductStore()
 </script>
 
 <template mx-auto>
-  <div class="grid grid-cols-3 justify-items-stretch gap-5">
+  <div class="grid lg:grid-cols-3 md:grid-cols-2 sm:grid-cols-2 justify-items-stretch gap-5">
     <template v-for="(p, i) in productStore.productsFiltered" :key="i">
       <card-product :product="p" />
     </template>

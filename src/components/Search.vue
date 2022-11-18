@@ -5,7 +5,7 @@ const productStore = useProductStore()
 </script>
 
 <template>
-  <div text-center>
+  <div>
     <input v-model="productStore.filterProduct" type="text" btn placeholder="Buscar producto aloe">
   </div>
 </template>
